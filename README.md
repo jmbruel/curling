@@ -1,7 +1,9 @@
 CURLING
 =======
 
-CURLING (**C**heck if my **UR**l **LIN**ks are **G**ood) is a tool that checks
+![alt tag](https://raw.github.com/jmbruel/curling/master/img/curling.png)
+
+**CURLING** (**C**heck if my **UR**l **LIN**ks are **G**ood) is a tool that checks
 if the URLs found in a text file are obsolete or not.
 
 Welcome page
